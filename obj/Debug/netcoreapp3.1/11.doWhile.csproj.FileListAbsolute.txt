@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.exe
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.deps.json
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.dll
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\bin\Debug\netcoreapp3.1\11.doWhile.pdb
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.dll
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.pdb
+C:\Users\Bla\source\repos\DataTypes\11.doWhile\obj\Debug\netcoreapp3.1\11.doWhile.genruntimeconfig.cache
